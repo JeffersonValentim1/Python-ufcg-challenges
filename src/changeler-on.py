@@ -1,7 +1,7 @@
 """
 Faça um programa que calcule o delta de uma equação do segundo grau. 
 Dados os coeficientes a, b e c, o delta é calculado elevando-se b 
-ao quadrado e diminuindo desse valor a multiplicação de 4 por a e c.
+ao quadrado e diminuindo desse valor a multiplicação de 4 por a e c..
 """
 
 a=float(input())
