@@ -6,7 +6,7 @@ noticiou que foram 8 campos de futebol, ao invés de noticiar 32000.0 m2.
 
 Sabendo que um campo de futebol tem 4000.0 m2, o estudante fez um programa 
 que recebe um número em ponto flutuante representando uma área e calcula 
-quantos  campos de futebol representam aquela área.
+quantos  campos de futebol representam aquela área..
 """
 # coding: utf-8
 # Cálculo de Campos de Futebol
