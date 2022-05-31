@@ -3,6 +3,7 @@ Escreva a função hello_arg. A função deve ser pura e deve apenas retornar um
 string com uma  mensagem no formato Hello, nome!, onde nome é o 
 nome passado como argumento para a função. Por exemplo, se a função for invocada com 
 hello_arg("prog1") a função deve retornar a mensagem Hello, prog1!
+
 Importante
 
     a função precisa ser nomeada exatamente como indicado: hello_arg; se não for nomeada assim, os testes automáticos não funcionarão;
