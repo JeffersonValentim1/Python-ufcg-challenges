@@ -1,6 +1,4 @@
 """
-Calcula ingressos do cinema
-
 João e Maria pretendem levar amigos e filhos ao cinema. Escreva um programa que leia o número de adultos, o número de crianças e o preço do ingresso do cinema e imprima o valor total a ser pago. Considere que todas as crianças pagam meia entrada.
 Entrada
 
